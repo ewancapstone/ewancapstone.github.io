@@ -2,7 +2,7 @@
 title: The Present
 subtitle: My time in high school.
 description: Present - Ewan's Capstone Project
-featured_image: /images/pages/best.jpg
+featured_image: /images/featured/best.jpg
 ---
 
 ## My Second Breakthrough

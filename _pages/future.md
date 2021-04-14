@@ -2,7 +2,7 @@
 title: My Future
 subtitle: The times to come...
 description: Future - Ewan's Capstone Project
-featured_image: /images/pages/sfu.jpg
+featured_image: /images/featured/sfu.jpg
 ---
 
 ## Future Plans With My Passion

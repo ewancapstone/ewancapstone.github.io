@@ -2,7 +2,7 @@
 title: My Past
 subtitle: My time in middle school.
 description: Past - Ewan's Capstone Project
-featured_image: /images/pages/banting.jpg
+featured_image: /images/featured/banting.jpg
 ---
 
 ## My Start of Middle School
