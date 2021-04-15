@@ -13,7 +13,7 @@ featured_image: /images/featured/sfu.jpg
 * I have been accepted into computer science at SFU
 * Lots of people who can support me in the future
   * My mentor for CLC is a math professor at SFU!
-  * I done programming work for a lab at SFU already
+  * I've done programming work for a lab at SFU already
 * Co-op can help me figure out what I want to do
 * I would also like to keep my passion as a hobby
 
